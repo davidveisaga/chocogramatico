@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lenguajes on chocogramatico</title>
-    <link>https://example.org/tags/lenguajes/</link>
+    <link>https://davidveisaga.github.io/chocogramatico/tags/lenguajes/</link>
     <description>Recent content in Lenguajes on chocogramatico</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Oct 2024 09:45:29 -0300</lastBuildDate>
-    <atom:link href="https://example.org/tags/lenguajes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidveisaga.github.io/chocogramatico/tags/lenguajes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Isomorfismo entre gramáticas y autómatas</title>
-      <link>https://example.org/posts/isomorfismo-gramaticas-automatas/</link>
+      <link>https://davidveisaga.github.io/chocogramatico/posts/isomorfismo-gramaticas-automatas/</link>
       <pubDate>Sun, 13 Oct 2024 09:45:29 -0300</pubDate>
-      <guid>https://example.org/posts/isomorfismo-gramaticas-automatas/</guid>
+      <guid>https://davidveisaga.github.io/chocogramatico/posts/isomorfismo-gramaticas-automatas/</guid>
       <description>&lt;p&gt;Se habla de isomorfismo entre dos estructuras, cuando el estudio de una puede reducirse al de la otra.&lt;/p&gt;&#xA;&lt;p&gt;El concepto matemático de isomorfismo (iso-morfos: igual forma) transmite la idea de estructura equivalentes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;p class=&#34;markdown-image&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://i.imgur.com/BOI0uMv.jpg&#34; alt=&#34;gramaticas-isomorfismo&#34;  /&gt;&#xD;&#xA;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;Las gramáticas, generan lenguajes formales y los autómatas son entidades reconocedoras de esos lenguajes. El lenguaje es el vinculo que establece un isomorfismo entre ambos.&lt;/p&gt;&#xA;&lt;p&gt;Chomsky utilizo las forma que toman las reglas de producción de las gramáticas para proponer una clasificación en cuatro tipos, en las que las menos restringidas incluyen sucesivamente a las siguientes.&lt;/p&gt;</description>
     </item>
   </channel>
