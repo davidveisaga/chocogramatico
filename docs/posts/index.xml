@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on chocogramatico</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on chocogramatico</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2024 09:45:29 -0300</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isomorfismo entre gramáticas y autómatas</title>
+      <link>https://example.org/posts/isomorfismo-gramaticas-automatas/</link>
+      <pubDate>Sun, 13 Oct 2024 09:45:29 -0300</pubDate>
+      <guid>https://example.org/posts/isomorfismo-gramaticas-automatas/</guid>
+      <description>&lt;p&gt;Se habla de isomorfismo entre dos estructuras, cuando el estudio de una puede reducirse al de la otra.&lt;/p&gt;&#xA;&lt;p&gt;El concepto matemático de isomorfismo (iso-morfos: igual forma) transmite la idea de estructura equivalentes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;p class=&#34;markdown-image&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://i.imgur.com/BOI0uMv.jpg&#34; alt=&#34;gramaticas-isomorfismo&#34;  /&gt;&#xD;&#xA;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;Las gramáticas, generan lenguajes formales y los autómatas son entidades reconocedoras de esos lenguajes. El lenguaje es el vinculo que establece un isomorfismo entre ambos.&lt;/p&gt;&#xA;&lt;p&gt;Chomsky utilizo las forma que toman las reglas de producción de las gramáticas para proponer una clasificación en cuatro tipos, en las que las menos restringidas incluyen sucesivamente a las siguientes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lugar Secreto</title>
+      <link>https://example.org/posts/lugar-secreto/</link>
+      <pubDate>Sun, 13 Oct 2024 09:38:29 -0300</pubDate>
+      <guid>https://example.org/posts/lugar-secreto/</guid>
+      <description>&lt;p&gt;Para contar una revelación extrema.&lt;/p&gt;&#xA;&lt;p&gt;&lt;p class=&#34;markdown-image&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://i.imgur.com/tXNPp0o.jpg&#34; alt=&#34;Banco JFK&#34;  /&gt;&#xD;&#xA;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p class=&#34;markdown-image&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://i.imgur.com/KQT2GBi.jpg&#34; alt=&#34;Banco MIB&#34;  /&gt;&#xD;&#xA;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;p class=&#34;markdown-image&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://i.imgur.com/H2pJFSV.jpg&#34; alt=&#34;Banco SL&#34;  /&gt;&#xD;&#xA;&lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Referencias:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Oliver Stone (1991) JFK. Caso abierto. Warner Bros. Pictures&lt;/p&gt;&#xA;&lt;p&gt;Barry Sonnenfeld (1997) Men in Black. Columbia Pictures&lt;/p&gt;&#xA;&lt;p&gt;Tom McCarthy (2015) Spotlight. Open Road Films&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
