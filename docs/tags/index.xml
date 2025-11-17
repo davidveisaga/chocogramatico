@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ExampleSite</title>
-    <link>https://davidveisaga.github.io/chocogramatico/tags/</link>
+    <link>https://chocogramatico.ar/tags/</link>
     <description>Recent content in Tags on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
-      <url>https://davidveisaga.github.io/chocogramatico/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://davidveisaga.github.io/chocogramatico/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://chocogramatico.ar/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://chocogramatico.ar/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 10 Jul 2025 21:33:01 +0000</lastBuildDate>
-    <atom:link href="https://davidveisaga.github.io/chocogramatico/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chocogramatico.ar/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JFK</title>
-      <link>https://davidveisaga.github.io/chocogramatico/tags/jfk/</link>
+      <link>https://chocogramatico.ar/tags/jfk/</link>
       <pubDate>Thu, 10 Jul 2025 21:33:01 +0000</pubDate>
-      <guid>https://davidveisaga.github.io/chocogramatico/tags/jfk/</guid>
+      <guid>https://chocogramatico.ar/tags/jfk/</guid>
       <description></description>
     </item>
     <item>
       <title>MiB</title>
-      <link>https://davidveisaga.github.io/chocogramatico/tags/mib/</link>
+      <link>https://chocogramatico.ar/tags/mib/</link>
       <pubDate>Thu, 10 Jul 2025 21:33:01 +0000</pubDate>
-      <guid>https://davidveisaga.github.io/chocogramatico/tags/mib/</guid>
+      <guid>https://chocogramatico.ar/tags/mib/</guid>
       <description></description>
     </item>
     <item>
       <title>Spootlight</title>
-      <link>https://davidveisaga.github.io/chocogramatico/tags/spootlight/</link>
+      <link>https://chocogramatico.ar/tags/spootlight/</link>
       <pubDate>Thu, 10 Jul 2025 21:33:01 +0000</pubDate>
-      <guid>https://davidveisaga.github.io/chocogramatico/tags/spootlight/</guid>
+      <guid>https://chocogramatico.ar/tags/spootlight/</guid>
       <description></description>
     </item>
   </channel>
