@@ -38,11 +38,11 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-![Banco JFK](http://i.imgur.com/tXNPp0o.jpg)
+![Banco JFK](http://172.233.172.87/wp-content/uploads/2025/11/cfk-banco.jpg)
 
-![Banco MIB](http://i.imgur.com/KQT2GBi.jpg)
+![Banco MIB](http://172.233.172.87/wp-content/uploads/2025/11/mib-banco.jpg)
 
-![Banco SL](http://i.imgur.com/H2pJFSV.jpg)
+![Banco SL](http://172.233.172.87/wp-content/uploads/2025/11/slight-bancor.jpg)
 
 **Referencias:**
 
